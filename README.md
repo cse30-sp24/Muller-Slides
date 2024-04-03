@@ -1,5 +1,6 @@
 NOTICE:
 There are two types of slide sets
+
 (1) full topic versions like 01-C-Part1
 
 (2) What was covered in lecture for a specific class like lecture-1
